@@ -1,2 +1,19 @@
-# eicar-68kb-tester
- EICAR Test File Generator – A script to generate 68 KB EICAR test files in multiple formats (.txt, .pdf, .xls, .xlsx, .zip). Useful for antivirus testing, security research, and network monitoring validation.
+# EICAR Test File Generator 🚀
+
+This repository provides a script to generate **EICAR test files** of exactly **68 KB** in various formats:
+- 📄 **TXT**
+- 📝 **PDF**
+- 📊 **XLS/XLSX**
+- 📦 **ZIP**
+
+## 🎯 Purpose & Applications
+- ✅ **Antivirus detection testing**
+- 🔍 **Security research & malware simulations**
+- 🌐 **Network monitoring validation**
+- 🔒 **CSP & file restriction testing**
+
+## 🛠 Installation
+Before running the script, install the required dependencies:
+```bash
+pip install fpdf pandas openpyxl xlwt
+
