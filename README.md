@@ -50,13 +50,12 @@ X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 ```
 The first 68 characters form the known string. It may be optionally appended by any combination of whitespace characters, with the total file length not exceeding 128 characters.
 
-🔗 **Reference:** [EICAR Official Website](https://www.eicar.org/download-anti-malware-testfile/)
+🔗 **Reference:** [EICAR Official Website](https://www.eicar.org/download-anti-malware-testfile/){:target="_blank"}
 
 ## 📄 License
 This project is released under the **MIT License**.
 
 ---
-
 
 
 
